@@ -1,6 +1,11 @@
 #board{
     width: 80%;
     div {
-        width: 50px;
+        border: solid black;
+        width: 100px;
+        height: 100px;
+        .thumbnail{
+            background-color: orange;
+        }
     }
 }

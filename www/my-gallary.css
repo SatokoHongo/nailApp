@@ -3,5 +3,11 @@
 }
 
 #board div {
-  width: 50px;
+  border: solid black;
+  width: 100px;
+  height: 100px;
+}
+
+#board div .thumbnail {
+  background-color: orange;
 }
