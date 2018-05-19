@@ -1,0 +1,7 @@
+#board {
+  width: 80%;
+}
+
+#board div {
+  width: 50px;
+}
