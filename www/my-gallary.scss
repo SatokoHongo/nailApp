@@ -1,11 +1,18 @@
 #board{
     width: 80%;
     div {
-        border: solid black;
-        width: 100px;
-        height: 100px;
-        .thumbnail{
+        width: 50%;
+        height: 400px;
+        padding: 0;
+        margin: 0;
+        #thumbnail{
+            width: 100%;
+            height: 100%;
+            border: solid black;
             background-color: orange;
+        }
+        .date{
+            background-color: blue;
         }
     }
 }
